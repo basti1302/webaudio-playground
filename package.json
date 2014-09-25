@@ -1,0 +1,15 @@
+{
+  "name": "webaudio-playground",
+  "version": "1.0.0",
+  "description": "Just fiddling around with webaudio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bastian Krol <bastian.krol@web.de>",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^5.12.0",
+    "watchify": "^1.0.6"
+  }
+}
